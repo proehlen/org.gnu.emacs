@@ -43,7 +43,8 @@
             "buildsystem": "autotools",
             "config-opts": [
                 "--with-gnutls",
-                "--with-tree-sitter"
+                "--with-tree-sitter",
+                "--with-native-compilation"
             ],
             "sources": [
                 {
